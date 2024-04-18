@@ -6,7 +6,7 @@ import json
 import concurrent.futures
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-
+from site_automation import get_stuff_automated
 
 """
 Функционал:
@@ -22,80 +22,30 @@ from selenium.webdriver.common.by import By
 ....
 """
 
-def get_links(text):
+def get_links(link):
     ua = fake_useragent.UserAgent()
 
-    data = requests.get(
-        url="https://www.joom.ru/ru/search/q.%D0%A1%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD%D1%8B",
-        headers={"user-agent": ua.ff}
-    )
-
-    #Нахождения диапазона цен в момент работы скрипта, для перебора между всех штук между значениями
-    # которые имеются на данный момент в датабазе сайта.
-    #https://www.joom.ru/ru/search/s.origPrice.desc/q.%D0%A1%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD%D1%8B С БОЛЬШОГО К МАЛЕНЬКОМУ
-    #https://www.joom.ru/ru/search/s.origPrice.asc/q.%D0%A1%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD%D1%8B С МАЛЕНЬКОГО К БОЛЬШОМУ
-
-    data_lowest = requests.get(
-        url="https://www.joom.ru/ru/search/s.origPrice.asc/q.%D0%A1%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD%D1%8B",
-        headers={"user-agent": ua.ff}
-    )
-    data_highest = requests.get(
-        url="https://www.joom.ru/ru/search/s.origPrice.desc/q.%D0%A1%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD%D1%8B",
-        headers={"user-agent": ua.ff}
-    )
-
-    soup = BeautifulSoup(data.content, 'lxml')
-    soup_max = BeautifulSoup(data_highest.content,'lxml')
-    soup_low = BeautifulSoup(data_lowest.content,'lxml')
-
-    try:
-        max_price = int(soup.find("div", attrs={"class":"price___Vlu0y"}).find_all("span", recursive=False)[-2].find("a").text)
-        smallest_price = int(soup.find("div", attrs={"class":"price___Vlu0y"}).find_all("span", recursive=False)[-2].find("a").text)
-    except:
-        max_price = 0
-        smallest_price = 0
-
-
     #Сюда хуячим селен
-
-    driver = webdriver.Chrome()
-    driver.get('https://www.joom.ru/ru/search/s.origPrice.desc/q.%D0%A1%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD%D1%8B')
-    submit = driver.find_element("input#kc-login")
-    submit.click()
-    text_box = driver.find_element(by=By.NAME, value="my-text")
-    submit_button = driver.find_element(by=By.CSS_SELECTOR, value="button___Fogz2.rounded-rect___bviwL.large___rb5cP.primary___Go6Zn")
+    soup = get_stuff_automated(link)
+    ammount_of_products = len(soup.find_all('a'))
 
     #!!! Как костя мне сказал - на сайте весь прикол состоит в ложной ссылке, которая JS-у отправляет
     # сигнал, который уже и запрашивает дополнительные данные и там уже и идет подключение и другая
     # штука.
 
+    #a class="content___N4xbX"
+    try:
+        #Находятся все ссылки в блоке, после чего они все приписываются в лист. Из него
+        #берётся первая ссылка, что ссылат на работу, а не на компанию
+        stuff = yield f'https://www.joom.ru/ru{soup.find_all("a", attrs={"class":"content___N4xbX"})}'
+    except Exception as e:
+        print(f"{e}")
+        stuff = []
+
+    return stuff
 
 
-    driver.implicitly_wait(0.5)
-    time.sleep(3)
-    activate_btn = driver.find_element_by_xpath(activate_xpath)
-
-    driver.quit()
-
-for page in range():
-        try:
-            data = requests.get(
-                url="https://krasnoyarsk.hh.ru/search/vacancy?L_save_area=true&text={text}&excluded_text=&salary=&currency_code=RUR&experience=doesNotMatter&order_by=relevance&search_period=0&items_on_page=50&page={page}",
-                headers={"user-agent": ua.random}
-            )
-            if data.status_code == 200:
-                soup = BeautifulSoup(data.content, "lxml")
-                for i in soup.find("div", attrs={"data-qa":"vacancy-serp__results"}).find_all("div", attrs={"class":"serp-item"}):
-                    #Находятся все ссылки в блоке, после чего они все приписываются в лист. Из него
-                    #берётся первая ссылка, что ссылат на работу, а не на компанию
-                    yield f'{i.find_all("a", "bloko-link")[0].attrs["href"].split("?")[0]}'
-        except Exception as e:
-            print(f"{e}")
-        time.sleep(0.1)
-    print(page_count)
-
-
-def get_resume(link):
+def get_products(link):
     ua = fake_useragent.UserAgent()
     data = requests.get(
         url=link,
@@ -148,13 +98,13 @@ def get_resume(link):
     }
     return resume
 
-links = get_links("BI-analytic")
+links = get_links("https://www.joom.ru/ru/search/s.origPrice.desc/q.%D0%A1%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD%D1%8B")
 data = []
-def put_resume_to_work(link):
-    data.append(get_resume(link))
+def put_products_to_work(link):
+    data.append(get_products(link))
 
 with concurrent.futures.ThreadPoolExecutor() as executor:
-    executor.map(put_resume_to_work, links)
+    executor.map(put_products_to_work, links)
 
 
 with open("data.json","w",encoding="utf-8") as f:
