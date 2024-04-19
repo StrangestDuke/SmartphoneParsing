@@ -35,5 +35,5 @@ def get_stuff_automated(link):
     needed_stuff = driver.find_element(by=By.CLASS_NAME, value="inner___X6KPD")
     elementHTML = needed_stuff.get_attribute('outerHTML') #gives exact HTML content of the element
 
-    elementSoup = BeautifulSoup(elementHTML,'html.parser')
+    elementSoup = BeautifulSoup(elementHTML,'lxml')
     return elementSoup
