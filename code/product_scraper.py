@@ -17,74 +17,80 @@ from webdriver_manager.chrome import ChromeDriverManager
 ОЗУ, ПЗУ, ДИАГОНАЛЬ, ОС, ПРОЦ, БАТАРЕЯ, КАМЕРА
 """
 
-def get_stuff_automated(link):
+def pull_phone_specs(link):
     driver = webdriver.Chrome()
     driver.get('{}'.format(link))
 
-    driver.implicitly_wait(3)
+    driver.execute_script("window.scrollTo(0, (document.body.scrollHeight/10));")
+    time.sleep(1)
+    stuff = driver.find_element(by=By.CLASS_NAME, value="expandButton___HYAx0")
+    stuff.click()
 
-    submit_button = driver.find_element(by=By.CLASS_NAME, value="expandButton___HYAx0")
-    submit_button.click()
+    time.sleep(1)
+    elementHTML = driver.page_source  # gives exact HTML content of the element
 
-    needed_stuff = driver.find_element(by=By.CLASS_NAME, value="block___dmkMj")
-    elementHTML = driver.page_source#gives exact HTML content of the element
-
-    soup = BeautifulSoup(elementHTML,'lxml')
+    soup = BeautifulSoup(elementHTML, 'lxml')
+    chars = soup.find('div', attrs={"class": "block___dmkMj"})
 
     #Нужно будет брать полученные характеристики, а потом пропускать через мясорубку все значения
     # и при наличии нулов - к хуям обрубать колонку.
     try:
-        name = soup.find(attrs={"h1":"root___e0mAF"} ).text
+        name = soup.find('h1',attrs={"class":"root___e0mAF"} ).text
     except:
         name =""
     try:
-        price = soup.find(attrs={"div":"price___Y4B7f"}).find_all(attrs={'span'})[-2].text
+        price = soup.find('div',attrs={"class":"price___Y4B7f"}).find_all('span')[-2].get_text()
     except:
         price =""
     try:
-        sales = soup.find(attrs={"span":"msrPriceContent___B4IAF"}).find_all('span')[-2].text
+        sales = soup.find_all('div', attrs={'style': 'color: var(--color-primary60, #8e90a7);'})[0].find('div').get_text()
     except:
         sales=""
     try:
-        stars = soup.find(attrs={"div":"rating___xgC0f"}).find(attrs={'div':'label___vyzo3'}).get_text()
+        stars = soup.find('div',attrs={'class':'label___vyzo3'}).get_text()
     except:
         stars =""
     try:
-        review_num = soup.find(attrs={"h3":"header___Awua3"}).find(attrs={'span':'count___hYdlC'}).get_text()
+        perc_of_recs = soup.find_all('div', attrs={'style': 'color: var(--color-primary60, #8e90a7);'})[1].find('div').get_text()
+    except:
+        perc_of_recs = ""
+    try:
+        review_num = soup.find('h3', attrs={"class":"header___Awua3"}).find('span', attrs={'class':'count___hYdlC'}).get_text()
     except:
         review_num =""
-
-    chars = soup.find(attrs={"div":"block___dmkMj"})
 
     #По сути - можно взять все элементы и проверять на их совпадение с именем и потом уже брать то
     # что нужно, после перебора. Звучит как план.
 
     try:
-        os = chars.find(attrs={"h3":"header___Awua3"}).find(attrs={'span':'count___hYdlC'}).get_text()
+
+        os = chars.find('span', string='Операционная система').parent.parent.find('div', attrs={
+            'class': "value___omEBd"}).find('span').get_text()
     except:
-        os =""
+        os = ""
     try:
-        RAM = soup.find(attrs={"h3":"header___Awua3"}).find(attrs={'span':'count___hYdlC'}).get_text()
+        RAM = chars.find('span', string='Оперативная память').parent.parent.find('div', attrs={
+            'class': "value___omEBd"}).find('span').get_text()
     except:
         RAM =""
     try:
-        ROM = soup.find(attrs={"h3":"header___Awua3"}).find(attrs={'span':'count___hYdlC'}).get_text()
+        ROM = chars.find('span', string='Встроенная память').parent.parent.find('div', attrs={
+            'class': "value___omEBd"}).find('span').get_text()
     except:
         ROM =""
     try:
-        diagonal = soup.find(attrs={"h3":"header___Awua3"}).find(attrs={'span':'count___hYdlC'}).get_text()
+        diagonal = chars.find('span', string='Диагональ').parent.parent.find('div', attrs={
+            'class': "value___omEBd"}).find('span').get_text()
     except:
         diagonal =""
     try:
-        processor = soup.find(attrs={"h3":"header___Awua3"}).find(attrs={'span':'count___hYdlC'}).get_text()
-    except:
-        processor =""
-    try:
-        battery = soup.find(attrs={"h3":"header___Awua3"}).find(attrs={'span':'count___hYdlC'}).get_text()
+        battery = chars.find('span', string='Ёмкость аккумулятора').parent.parent.find('div', attrs={
+            'class': "value___omEBd"}).find('span').get_text()
     except:
         battery =""
     try:
-        camera = soup.find(attrs={"h3":"header___Awua3"}).find(attrs={'span':'count___hYdlC'}).get_text()
+        camera = chars.find('span', string='Основная широкоугольная камера').parent.parent.find('div', attrs={
+            'class': "value___omEBd"}).find('span').get_text()
     except:
         camera =""
 
@@ -96,6 +102,7 @@ def get_stuff_automated(link):
         "price":price,
         "sales": sales,
         "stars": stars,
+        "rec_proc": perc_of_recs,
         "review_num": review_num,
     }
     product_chars = {
@@ -103,13 +110,8 @@ def get_stuff_automated(link):
         "RAM": RAM,
         "ROM": ROM,
         "diag": diagonal,
-        "proc": processor,
         "bat": battery,
         "cam": camera
     }
     return product_main, product_chars
-
-data = get_stuff_automated("https://www.joom.ru/ru/products/63dd574ea5e8de010840476f")
-with open("data.json","w",encoding="utf-8") as f:
-    json.dump(data,f,indent=4,ensure_ascii=False)
 

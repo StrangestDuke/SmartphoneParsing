@@ -7,7 +7,7 @@ import concurrent.futures
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from site_automation import get_stuff_automated
-
+from product_scraper import pull_phone_specs
 """
 Функционал:
 
@@ -37,76 +37,36 @@ def get_links(link):
     try:
         #Находятся все ссылки в блоке, после чего они все приписываются в лист. Из него
         #берётся первая ссылка, что ссылат на работу, а не на компанию
-        stuff = yield f'https://www.joom.ru/ru{soup.find_all("a", attrs={"class":"content___N4xbX"})}'
+        links = soup.find_all("a",href=True, attrs={"class":"content___N4xbX"})['href']
+        stuff = yield f'https://www.joom.ru/{links}'
     except Exception as e:
         print(f"{e}")
         stuff = []
 
     return stuff
 
-
-def get_products(link):
-    ua = fake_useragent.UserAgent()
-    data = requests.get(
-        url=link,
-        headers={"user-agent": ua.random}
-    )
-    if data.status_code != 200:
-        return
-    soup = BeautifulSoup(data.content, "lxml")
-
-    #Название вакансии+, описание вакансии+, зп+, регион+, работодатель+
-    #Требования, опыт работы+, график работы ,
-
-    try:
-        name = soup.find(attrs={"data-qa":"vacancy-title"} ).text
-    except:
-        name =""
-    try:
-        about = soup.find(attrs={"class":"g-user-content"}).p.text
-    except:
-        about = ""
-    try:
-        salary = soup.find(attrs={"data-qa":"vacancy-salary-compensation-type-net"}).text.replace("\u2009","").replace("\xa0", " ")
-    except:
-        salary =""
-    try:
-        region = soup.find(attrs={"data-qa":"vacancy-view-location"}).text
-    except:
-        region = ""
-    try:
-        company = soup.find(attrs={"data-qa":"vacancy-company-name"}).find("span").text
-    except:
-        company = ""
-    try:
-        exp = soup.find(attrs={"data-qa":"vacancy-experience"}).text.replace("\u2009","").replace("\xa0", " ")
-    except:
-        exp = ""
-    try:
-        emp_mode = soup.find(attrs={"data-qa":"vacancy-view-employment-mode"}).text
-    except:
-        emp_mode = ""
-    resume = {
-        "link":link,
-        "name":name,
-        "salary":salary,
-        "about": about,
-        "region": region,
-        "company": company,
-        "exp": exp,
-        "emp_mode":emp_mode,
-    }
-    return resume
-
 links = get_links("https://www.joom.ru/ru/search/s.origPrice.desc/q.%D0%A1%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD%D1%8B")
+
+print([x for x in links])
+"""
+try:
+    with open("links.json", encoding="utf-8") as f:
+        links = json.load(f)
+except:
+    links = get_links("https://www.joom.ru/ru/search/s.origPrice.desc/q.%D0%A1%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD%D1%8B")
+    with open("links.json", "w", encoding="utf-8") as f:
+        json.dump(links, f, indent=4, ensure_ascii=False)
+        
+
 data = []
 def put_products_to_work(link):
-    data.append(get_products(link))
+    data.append(pull_phone_specs(link))
 
 with concurrent.futures.ThreadPoolExecutor() as executor:
-    executor.map(put_products_to_work, links)
-
+    executor.map(pull_phone_specs, links)
 
 with open("data.json","w",encoding="utf-8") as f:
     json.dump(data,f,indent=4,ensure_ascii=False)
 
+
+"""
