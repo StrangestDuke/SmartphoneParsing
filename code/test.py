@@ -1,4 +1,3 @@
-
 import requests
 from bs4 import BeautifulSoup
 import fake_useragent
@@ -6,45 +5,51 @@ import time
 import json
 import concurrent.futures
 from selenium import webdriver
-from selenium.webdriver import ActionChains
-from selenium.webdriver.common.actions.wheel_input import ScrollOrigin
 from selenium.webdriver.common.by import By
-from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.chrome.options import Options
+from site_automation import get_stuff_automated
+from product_scraper import pull_phone_specs
 
 
-def get_stuff_automated(link):
-    driver = webdriver.Chrome()
-    driver.get('{}'.format(link))
+ua = fake_useragent.UserAgent()
+
+    # Сюда хуячим селен
+soup = get_stuff_automated("https://www.joom.ru/ru/search/s.origPrice.desc/q.%D0%A1%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD%D1%8B")
+
+    # !!! Как костя мне сказал - на сайте весь прикол состоит в ложной ссылке, которая JS-у отправляет
+    # сигнал, который уже и запрашивает дополнительные данные и там уже и идет подключение и другая
+    # штука.
+
+# a class="content___N4xbX"
+try:
+# Находятся все ссылки в блоке, после чего они все приписываются в лист. Из него
+# берётся первая ссылка, что ссылат на работу, а не на компанию
+    links = soup.find_all("a", href=True, attrs={"class": "content___N4xbX"})#['href']
+    stuff = [x['href'] for x in links]
+except Exception as e:
+    print(f"{e}")
+    links = []
+
+print(stuff)
+
+"""
+try:
+    with open("links.json", encoding="utf-8") as f:
+        links = json.load(f)
+except:
+    links = get_links("https://www.joom.ru/ru/search/s.origPrice.desc/q.%D0%A1%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD%D1%8B")
+    with open("links.json", "w", encoding="utf-8") as f:
+        json.dump(links, f, indent=4, ensure_ascii=False)
 
 
-    driver.execute_script("window.scrollTo(0, (document.body.scrollHeight/10));")
-    time.sleep(1)
-    stuff = driver.find_element(by=By.CLASS_NAME, value="expandButton___HYAx0")
-    stuff.click()
+data = []
+def put_products_to_work(link):
+    data.append(pull_phone_specs(link))
 
-    time.sleep(1)
-    elementHTML = driver.page_source#gives exact HTML content of the element
+with concurrent.futures.ThreadPoolExecutor() as executor:
+    executor.map(pull_phone_specs, links)
 
-    soup = BeautifulSoup(elementHTML,'lxml')
-
-
-    chars = soup.find('div', attrs={"class":"block___dmkMj"})
-
-    print(chars)
-
-    #По сути - можно взять все элементы и проверять на их совпадение с именем и потом уже брать то
-    # что нужно, после перебора. Звучит как план.
-    try:
-
-        os = chars.find('span', string='Операционная система').parent.parent.find('div',attrs={'class':"value___omEBd"}).find('span').get_text()
-    except:
-        os =""
-        print("Everything is fucked")
-
-    return os
+with open("data.json","w",encoding="utf-8") as f:
+    json.dump(data,f,indent=4,ensure_ascii=False)
 
 
-
-data = get_stuff_automated("https://www.joom.ru/ru/products/63dd574ea5e8de010840476f")
-print(data)
+"""

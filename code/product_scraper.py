@@ -23,8 +23,11 @@ def pull_phone_specs(link):
 
     driver.execute_script("window.scrollTo(0, (document.body.scrollHeight/10));")
     time.sleep(1)
-    stuff = driver.find_element(by=By.CLASS_NAME, value="expandButton___HYAx0")
-    stuff.click()
+    try:
+        stuff = driver.find_element(by=By.CLASS_NAME, value="expandButton___HYAx0")
+        stuff.click()
+    except:
+        print("bruh")
 
     time.sleep(1)
     elementHTML = driver.page_source  # gives exact HTML content of the element

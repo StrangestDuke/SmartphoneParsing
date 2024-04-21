@@ -37,18 +37,13 @@ def get_links(link):
     try:
         #Находятся все ссылки в блоке, после чего они все приписываются в лист. Из него
         #берётся первая ссылка, что ссылат на работу, а не на компанию
-        links = soup.find_all("a",href=True, attrs={"class":"content___N4xbX"})['href']
-        stuff = yield f'https://www.joom.ru/{links}'
+        links = soup.find_all("a", href=True, attrs={"class": "content___N4xbX"})
+        stuff = ["https://www.joom.ru{}".format(x["href"]) for x in links]
     except Exception as e:
         print(f"{e}")
         stuff = []
-
     return stuff
 
-links = get_links("https://www.joom.ru/ru/search/s.origPrice.desc/q.%D0%A1%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD%D1%8B")
-
-print([x for x in links])
-"""
 try:
     with open("links.json", encoding="utf-8") as f:
         links = json.load(f)
@@ -56,17 +51,14 @@ except:
     links = get_links("https://www.joom.ru/ru/search/s.origPrice.desc/q.%D0%A1%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD%D1%8B")
     with open("links.json", "w", encoding="utf-8") as f:
         json.dump(links, f, indent=4, ensure_ascii=False)
-        
 
 data = []
 def put_products_to_work(link):
     data.append(pull_phone_specs(link))
 
-with concurrent.futures.ThreadPoolExecutor() as executor:
-    executor.map(pull_phone_specs, links)
+for i in links:
+    put_products_to_work(i)
+    print(data)
 
 with open("data.json","w",encoding="utf-8") as f:
     json.dump(data,f,indent=4,ensure_ascii=False)
-
-
-"""

@@ -1,1 +1,4315 @@
-[]
+[
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/63dd574ea5e8de010840476f",
+            "name": "Смартфон Apple iPhone 13 mini",
+            "price": "72 939 ₽",
+            "sales": "11 покупок",
+            "stars": "5",
+            "rec_proc": "Бесплатная доставка 2-9 мая",
+            "review_num": "7"
+        },
+        {
+            "OS": "iOS 16",
+            "RAM": "4 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "5,4\"",
+            "bat": "2 438 мА·ч",
+            "cam": "12 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6363ea17336db5011d03f2e3",
+            "name": "Смартфон Samsung Galaxy S21 5G",
+            "price": "71 912 ₽",
+            "sales": "Бесплатная доставка 2-9 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "",
+            "ROM": "",
+            "diag": "6,2\"",
+            "bat": "4 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65fbed2bc1423f01190e7436",
+            "name": "Xiaomi 14 Смартфон Leica Optics 6,36 дюйма, 1,5K, 120 Гц, AMOLED, Snap… Ещё",
+            "price": "70 699 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 14",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ / 512 ГБ",
+            "diag": "6,36\"",
+            "bat": "4 610 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/650adc735791b801b19348a2",
+            "name": "Apple iPhone 15",
+            "price": "69 676 ₽",
+            "sales": "96% рекомендуют",
+            "stars": "4,9",
+            "rec_proc": "642 покупки",
+            "review_num": "91"
+        },
+        {
+            "OS": "iOS 17",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ / 256 ГБ / 512 ГБ",
+            "diag": "6,1\"",
+            "bat": "3 349 мА·ч",
+            "cam": "48 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/636b6ae413c02d019d2f3340",
+            "name": "Смартфон Google Pixel 7 Pro, 12/128 ГБ",
+            "price": "65 748 ₽",
+            "sales": "Бесплатная доставка 2-9 мая",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "2"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "12 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,71\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6538f268f052f5016682749a",
+            "name": "Смартфон Google Pixel 8 Hazel",
+            "price": "64 720 ₽",
+            "sales": "Бесплатная доставка 2-9 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "",
+            "RAM": "",
+            "ROM": "",
+            "diag": "",
+            "bat": "",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/63dbbc98bd6b0401dcff1013",
+            "name": "Смартфон Apple iPhone 13",
+            "price": "63 698 ₽",
+            "sales": "Бесплатная доставка 2-9 мая",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "iOS",
+            "RAM": "4 ГБ",
+            "ROM": "",
+            "diag": "",
+            "bat": "3 240 мА·ч",
+            "cam": "12 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/644012e2115f3b01eef553bd",
+            "name": "Глобальное ПЗУ Motorola MOTO X40 5G Мобильный телефон… Ещё",
+            "price": "57 566 ₽",
+            "sales": "Доставка в пункт выдачи 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,7\"",
+            "bat": "4 600 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6538f250a8e21e011cffd23b",
+            "name": "Смартфон Google Pixel 8 Розовый",
+            "price": "60 611 ₽",
+            "sales": "Бесплатная доставка 2-9 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "",
+            "RAM": "",
+            "ROM": "",
+            "diag": "",
+            "bat": "",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6538eb3f5f3cb30137a9bce2",
+            "name": "Смартфон Гугл Пиксель 8",
+            "price": "60 611 ₽",
+            "sales": "Бесплатная доставка 2-9 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "",
+            "RAM": "",
+            "ROM": "",
+            "diag": "",
+            "bat": "",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/63e1078c9f432a01a6ec7df4",
+            "name": "Смартфон Samsung Galaxy S22",
+            "price": "60 611 ₽",
+            "sales": "Бесплатная доставка 2-9 мая",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "2"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "",
+            "diag": "",
+            "bat": "3 700 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/63982cd5c7d205012574864e",
+            "name": "Глобальное ПЗУ Motorola Moto X30 Pro Motoroala Edge 30 Ultra 5G 12 Г… Ещё",
+            "price": "52 066 ₽",
+            "sales": "Доставка в пункт выдачи 12-28 мая",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,7\"",
+            "bat": "4 610 мА·ч",
+            "cam": "200 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/631dd6cf3dd2930180fd2448",
+            "name": "Смартфон Apple iPhone 12 mini",
+            "price": "55 475 ₽",
+            "sales": "100% рекомендуют",
+            "stars": "5",
+            "rec_proc": "33 покупки",
+            "review_num": "15"
+        },
+        {
+            "OS": "iOS",
+            "RAM": "",
+            "ROM": "",
+            "diag": "",
+            "bat": "2 227 мА·ч",
+            "cam": "12 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65eecb4b6f475c01cc8b7432",
+            "name": "Защищенный смартфон 8849 Tank 3",
+            "price": "54 531 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "16 ГБ",
+            "ROM": "512 ГБ",
+            "diag": "6,79\"",
+            "bat": "23 800 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/63760294360a70010bc4588f",
+            "name": "Китайское ПЗУ Motorola moto X30 Pro 5G MOTO Edge 30 Ultra Тройна… Ещё",
+            "price": "52 068 ₽",
+            "sales": "Доставка в пункт выдачи 12-28 мая",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,7\"",
+            "bat": "4 610 мА·ч",
+            "cam": "200 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6290c637f9a6d301e1679eb7",
+            "name": "Смартфон Apple iPhone 12",
+            "price": "51 366 ₽",
+            "sales": "96% рекомендуют",
+            "stars": "4,9",
+            "rec_proc": "103 покупки",
+            "review_num": "65"
+        },
+        {
+            "OS": "iOS",
+            "RAM": "",
+            "ROM": "",
+            "diag": "",
+            "bat": "2 775 мА·ч",
+            "cam": "12 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/63e76f83eb601a01753165e4",
+            "name": "Смартфон Honor 70, с сервисами Google",
+            "price": "49 311 ₽",
+            "sales": "Бесплатная доставка 2-9 мая",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "",
+            "RAM": "",
+            "ROM": "",
+            "diag": "",
+            "bat": "",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/63df7cf4268f020179e5213d",
+            "name": "Смартфон Apple iPhone SE 3 5G 2022 г.",
+            "price": "49 311 ₽",
+            "sales": "Бесплатная доставка 2-9 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "iOS",
+            "RAM": "4 ГБ",
+            "ROM": "",
+            "diag": "",
+            "bat": "2 018 мА·ч",
+            "cam": "12 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/63001af0b3b52601b40659b6",
+            "name": "Смартфон Google Pixel 6 Pro",
+            "price": "47 256 ₽",
+            "sales": "12 покупок",
+            "stars": "5",
+            "rec_proc": "Бесплатная доставка 2-9 мая",
+            "review_num": "7"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "12 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64ad28378991bd0106420ff9",
+            "name": "Realme Смартфоны GT3 5G 240 Вт SUPERVOOC с зарядкой, глобальна… Ещё",
+            "price": "47 083 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "4,3",
+            "rec_proc": "",
+            "review_num": "4"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "16 ГБ",
+            "ROM": "1 ТБ",
+            "diag": "6,74\"",
+            "bat": "4 600 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/634ec5f0f01abf01cc222aeb",
+            "name": "Смартфон Google Pixel 7",
+            "price": "44 174 ₽",
+            "sales": "99% рекомендуют",
+            "stars": "5",
+            "rec_proc": "412 покупок",
+            "review_num": "302"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "",
+            "diag": "6,32\"",
+            "bat": "4 355 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/645ddccb99496c01ae6551f2",
+            "name": "Смартфон Google Pixel 7A, 8/128 ГБ",
+            "price": "42 120 ₽",
+            "sales": "Бесплатная доставка 2-9 мая",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,1\"",
+            "bat": "4 385 мА·ч",
+            "cam": "64 мегапикселя"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/62960c54d972b901bec2ef97",
+            "name": "Смартфон Apple iPhone 11",
+            "price": "42 120 ₽",
+            "sales": "96% рекомендуют",
+            "stars": "4,9",
+            "rec_proc": "134 покупки",
+            "review_num": "95"
+        },
+        {
+            "OS": "iOS",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ / 128 ГБ",
+            "diag": "",
+            "bat": "3 110 мА·ч",
+            "cam": "12 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/63001ae770f4650104660ede",
+            "name": "Смартфон Samsung S21 FE",
+            "price": "41 093 ₽",
+            "sales": "98% рекомендуют",
+            "stars": "4,9",
+            "rec_proc": "69 покупок",
+            "review_num": "50"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "",
+            "ROM": "",
+            "diag": "6,41\"",
+            "bat": "4 500 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/62ee420006a90a018634be20",
+            "name": "Смартфон Google Pixel 6A",
+            "price": "41 098 ₽",
+            "sales": "89% рекомендуют",
+            "stars": "4,7",
+            "rec_proc": "35 покупок",
+            "review_num": "19"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "",
+            "bat": "4 410 мА·ч",
+            "cam": "12 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/62b1aeff2764600164043008",
+            "name": "Смартфон Google Pixel 6",
+            "price": "41 093 ₽",
+            "sales": "98% рекомендуют",
+            "stars": "4,9",
+            "rec_proc": "92 покупки",
+            "review_num": "68"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,4\"",
+            "bat": "4 614 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64561ba37c9d30017971520c",
+            "name": "Oukitel WP30 Pro 12 ГБ ОЗУ 512 ГБ ПЗУ",
+            "price": "40 120 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "3"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "12 ГБ",
+            "ROM": "512 ГБ",
+            "diag": "6,78\"",
+            "bat": "11 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6454ada66da8a9014c702f3c",
+            "name": "Ulefone Тепловизионная камера Power Armor 19T. Прочный телефон FL… Ещё",
+            "price": "37 287 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "17 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,58\"",
+            "bat": "9 600 мА·ч",
+            "cam": "108 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6622337af02d5901f4a63482",
+            "name": "Ulefone Водонепроницаемый смартфон Power Arm… Ещё",
+            "price": "37 643 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "24 ГБ",
+            "ROM": "512 ГБ",
+            "diag": "6,58\"",
+            "bat": "9 600 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6605643c07cb73011eed1d49",
+            "name": "Защищённый смартфон Oukitel WP30 Pro 5G",
+            "price": "37 199 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13.0",
+            "RAM": "24 ГБ",
+            "ROM": "512 ГБ",
+            "diag": "6,78\"",
+            "bat": "11 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/634cc07815f64a011e95515d",
+            "name": "Китайский ПЗУ, игровой смартфон Lenovo Legion Y70, 6,67 дюйма, 144 … Ещё",
+            "price": "31 482 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "4,7",
+            "rec_proc": "",
+            "review_num": "3"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 100 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/632ad25718f88d0188cd2b9a",
+            "name": "Blackview Прочный телефон BL8800 Pro 5G с тепловизионной кам… Ещё",
+            "price": "36 897 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "2",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,58\"",
+            "bat": "8 380 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65b0d58fb557c1018c4ef6ef",
+            "name": "Защищённый смартфон Blackview BL9000 5G",
+            "price": "36 113 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "4"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "12 ГБ",
+            "ROM": "512 ГБ",
+            "diag": "6,78\"",
+            "bat": "8 800 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/63fe5192b1fac1011aba7d54",
+            "name": "Смартфон Honor Magic 5 Lite, 8/128 ГБ",
+            "price": "35 956 ₽",
+            "sales": "Бесплатная доставка 2-9 мая",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 100 мА·ч",
+            "cam": "64 мегапикселя"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f1c2616bb332010a4e4fca",
+            "name": "Xiaomi Смартфоны Redmi Note 13 Pro 5G 12+512 ГБ, глобальная версия",
+            "price": "33 242 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "MIUI 14",
+            "RAM": "12 ГБ",
+            "ROM": "512 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 100 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f1c25f6bb332010a4e4f8b",
+            "name": "Xiaomi Смартфоны Redmi Note 13 Pro 5G 12+512 ГБ, глобальная версия",
+            "price": "32 839 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "MIUI 14",
+            "RAM": "12 ГБ",
+            "ROM": "512 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 100 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65b36fe9510f440138002092",
+            "name": "Смартфон POCO X6 Pro 5G с NFC Dimensity 8300-Ultra HyperOS 120 Гц … Ещё",
+            "price": "32 276 ₽",
+            "sales": "17 покупок",
+            "stars": "5",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "8"
+        },
+        {
+            "OS": "MIUI 14",
+            "RAM": "12 ГБ",
+            "ROM": "512 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65dc3aed8d20a80142404806",
+            "name": "Xiaomi Смартфон Redmi Note 13 PRO+ 5G MediaTek Dimensity 7… Ещё",
+            "price": "31 862 ₽",
+            "sales": "13 покупок",
+            "stars": "",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": ""
+        },
+        {
+            "OS": "MIUI 14",
+            "RAM": "8 ГБ / 12 ГБ",
+            "ROM": "256 ГБ / 512 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/646f087f7bd171015865a17a",
+            "name": "Смартфон POCO F5 5G Snapdragon 7+ Gen 2, восьмиядерный про… Ещё",
+            "price": "31 798 ₽",
+            "sales": "97% рекомендуют",
+            "stars": "4,9",
+            "rec_proc": "142 покупки",
+            "review_num": "93"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/62a95431fa97e001e58c46c4",
+            "name": "Смартфон Blackview BL8800 Pro 5G",
+            "price": "31 128 ₽",
+            "sales": "18 покупок",
+            "stars": "4,7",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "8"
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,58\"",
+            "bat": "8 380 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65b34505510f440138fee690",
+            "name": "Blackview Прочный смартфон BL8000 5G, 6,78, 2,4K, FHD+, 120 … Ещё",
+            "price": "30 058 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "12 ГБ",
+            "ROM": "512 ГБ",
+            "diag": "6,78\"",
+            "bat": "8 800 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/62f4df8418d24e01b8bc8b60",
+            "name": "Смартфон Ulefone Armor 9",
+            "price": "28 563 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 10",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,3\"",
+            "bat": "6 600 мА·ч",
+            "cam": "64 мегапикселя"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/5fe9578b52821701065faf2a",
+            "name": "Смартфон Blackview BL6000 Pro 5G",
+            "price": "28 541 ₽",
+            "sales": "87% рекомендуют",
+            "stars": "4,5",
+            "rec_proc": "24 покупки",
+            "review_num": "32"
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,37\"",
+            "bat": "5 280 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f2c0d4fead18015090f269",
+            "name": "Защищенный смартфон 8849 By Unihertz Tank",
+            "price": "28 059 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,81\"",
+            "bat": "22 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f1be9c0db3a30194b808a9",
+            "name": "Xiaomi Смартфон Redmi Note13 Pro 4G, глобальная версия",
+            "price": "23 915 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "MIUI 14",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6391962cb8ed0601128655d5",
+            "name": "Ulefone Прочный мобильный телефон Armor 10 5G, Android … Ещё",
+            "price": "27 634 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 10",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 800 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65dc43388d20a80142405947",
+            "name": "Xiaomi Смартфон Redmi Note 13 PRO 5G Snapdragon 7s Gen 2 … Ещё",
+            "price": "27 353 ₽",
+            "sales": "10 покупок",
+            "stars": "5",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "1"
+        },
+        {
+            "OS": "MIUI 14",
+            "RAM": "8 ГБ / 12 ГБ",
+            "ROM": "256 ГБ / 512 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65ab5eb7599dce013fb42f11",
+            "name": "Ulefone Прочный телефон Armor 24, 22000 мАч, 24 ГБ + 256 ГБ, … Ещё",
+            "price": "27 341 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "24 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,78\"",
+            "bat": "22 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65bb0c279a62e70117d40009",
+            "name": "Смартфон POCO X6 5G с NFC Snapdragon 7s Gen 2 IP54 1,5K 120 Гц AMO… Ещё",
+            "price": "25 029 ₽",
+            "sales": "25 покупок",
+            "stars": "5",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "9"
+        },
+        {
+            "OS": "MIUI 14",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ / 512 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 100 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/630ede5a702239019269f68b",
+            "name": "Смартфон Ulefone Power Armor 13, NFC, глобальная версия",
+            "price": "25 152 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "3,5",
+            "rec_proc": "",
+            "review_num": "2"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,81\"",
+            "bat": "13 200 мА·ч",
+            "cam": "48 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/5f61de97ee79090106fa9ad8",
+            "name": "Смартфон Blackview BV9800 Pro",
+            "price": "26 298 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "7"
+        },
+        {
+            "OS": "Android 9",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,3\"",
+            "bat": "6 580 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65eae3646c63fb01c6ce2552",
+            "name": "Защищенный смартфон Doogee S110",
+            "price": "25 350 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13.0",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,58\"",
+            "bat": "10 800 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65eeadce6f475c01cc8a01f3",
+            "name": "Защищенный смартфон 8849 Tank Mini",
+            "price": "25 344 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "4,3\"",
+            "bat": "5 800 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64ad373294bb2801540f83d3",
+            "name": "Realme 11. Восьмиядерный смартфон Pro Dimen… Ещё",
+            "price": "25 098 ₽",
+            "sales": "15 покупок",
+            "stars": "3,7",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "3"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,7\"",
+            "bat": "5 000 мА·ч",
+            "cam": "100 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64561ba27c9d300179715207",
+            "name": "Oukitel Прочный телефон WP19 Pro, 8 ГБ ОЗУ, 256 ГБ ПЗУ",
+            "price": "24 170 ₽",
+            "sales": "13 покупок",
+            "stars": "5",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "5"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,8\"",
+            "bat": "22 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/62330d54d3a23501430f863c",
+            "name": "Смартфон Oukitel WP18",
+            "price": "23 776 ₽",
+            "sales": "94% рекомендуют",
+            "stars": "4,8",
+            "rec_proc": "137 покупок",
+            "review_num": "78"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,78\"",
+            "bat": "8 500 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65fd598d2d4c3901e1bd0f3b",
+            "name": "Xiaomi Redmi Note 13 5G Смартфон Размер 6080 140 Гц 6,67-дюймовы… Ещё",
+            "price": "18 639 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "6 ГБ / 8 ГБ / 12 ГБ",
+            "ROM": "128 ГБ / 256 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/645a29728c67640176cd4f00",
+            "name": "Blackview Прочный телефон BV9300 G99, 21 ГБ, 256 ГБ, 6,7 дюйма… Ещё",
+            "price": "23 733 ₽",
+            "sales": "96% рекомендуют",
+            "stars": "4,8",
+            "rec_proc": "39 покупок",
+            "review_num": "27"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,7\"",
+            "bat": "15 080 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/641eb11aff2896018b087973",
+            "name": "Ulefone Armor 17 Pro Прочный телефон, 120 Гц, 108 МП, Android 12, н… Ещё",
+            "price": "23 498 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "4"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "13 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,58\"",
+            "bat": "5 380 мА·ч",
+            "cam": "108 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/63fc5c12b8759401aa967ba4",
+            "name": "Blackview Защищенный смартфон BV9200, мобильный телефон,… Ещё",
+            "price": "23 252 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 12.0",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,6\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/61e26d7a23ad4d011ca0f5cc",
+            "name": "Blackview BV8800 Прочный смартфон, дисплей 90 Гц, 8 ГБ +… Ещё",
+            "price": "22 576 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,58\"",
+            "bat": "8 380 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/66023fc670c74601e7bb3e7d",
+            "name": "Смартфон Cubot Hafury Meet",
+            "price": "22 984 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 100 мА·ч",
+            "cam": "16 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/62c95080749e31010cd1ab84",
+            "name": "Смартфон Oukitel WP19, NFC",
+            "price": "22 799 ₽",
+            "sales": "91% рекомендуют",
+            "stars": "4,7",
+            "rec_proc": "436 покупок",
+            "review_num": "309"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,78\"",
+            "bat": "21 000 мА·ч",
+            "cam": "64 мегапикселя"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/66014cde0ef56f01e3f0e194",
+            "name": "Oukitel Прочный смартфон WP27, 12 ГБ ОЗУ + 256 ГБ ПЗУ, ак… Ещё",
+            "price": "20 925 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,8\"",
+            "bat": "8 500 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/640ad999dd924701fd92fc10",
+            "name": "Смартфон Global Rom Xiaomi Redmi Note 12 Pro 5G, аккумулятор 500… Ещё",
+            "price": "21 484 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6603f90b099b4b012d483664",
+            "name": "Защищённый смартфон Oukitel WP21",
+            "price": "22 480 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 12.0",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,78\"",
+            "bat": "9 800 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65dc3f05dba0d3015a4ccf6a",
+            "name": "Xiaomi Смартфон Redmi Note 13 PRO 4G MediaTek Helio G99-Ultra 200M… Ещё",
+            "price": "22 479 ₽",
+            "sales": "12 покупок",
+            "stars": "5",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "2"
+        },
+        {
+            "OS": "MIUI 14",
+            "RAM": "8 ГБ / 12 ГБ",
+            "ROM": "256 ГБ / 512 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64a28f864aafdd0137bd035c",
+            "name": "Ulefone Прочный телефон Armor 21, 16 ГБ ОЗУ, 256 ГБ ПЗУ, сма… Ещё",
+            "price": "21 943 ₽",
+            "sales": "87% рекомендуют",
+            "stars": "4,5",
+            "rec_proc": "28 покупок",
+            "review_num": "16"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "16 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,58\"",
+            "bat": "9 600 мА·ч",
+            "cam": "64 мегапикселя"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64fb0e4bd06c8b018b18a36c",
+            "name": "Blackview Смартфон A200 Pro, 12 ГБ ОЗУ, 256 ГБ ПЗУ, изогнутый экран AM… Ещё",
+            "price": "21 786 ₽",
+            "sales": "95% рекомендуют",
+            "stars": "4,9",
+            "rec_proc": "72 покупки",
+            "review_num": "48"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "24 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 050 мА·ч",
+            "cam": "108 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f1b9c2c9bef801e84ddb6b",
+            "name": "Xiaomi Глобальная версия Redmi Note 13 5G",
+            "price": "21 781 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "MIUI 14",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65b211a0dabcf801bb9257c2",
+            "name": "Blackview BV9300 Pro Helio G99 Прочный телефон Android 13 … Ещё",
+            "price": "21 622 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,7\"",
+            "bat": "15 080 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64a55f9d368a27012c56ea91",
+            "name": "Защищенный смартфон Blackview BV8900",
+            "price": "21 574 ₽",
+            "sales": "12 покупок",
+            "stars": "4,3",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "7"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,5\"",
+            "bat": "10 000 мА·ч",
+            "cam": "64 мегапикселя"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/657418e524240801f6622527",
+            "name": "Blackview Смартфон BV8900 Pro 8 ГБ+256 ГБ Android 13",
+            "price": "21 063 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,56\"",
+            "bat": "10 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6530e106552aa9012e628d8f",
+            "name": "UMIDIGI BISON GT2 PRO 5G IP68 IP69K Android 12 Прочный смартфон Р… Ещё",
+            "price": "20 680 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "4,5",
+            "rec_proc": "",
+            "review_num": "2"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,5\"",
+            "bat": "6 150 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/660158510ef56f01e3f10611",
+            "name": "Защищённый смартфон Cubot KingKong AX",
+            "price": "20 665 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 14",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,58\"",
+            "bat": "5 100 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f413034a87af01b3ca82e1",
+            "name": "Global Rom Xiaomi Redmi Note 13 Смартфон 5G 100MP Двойная каме… Ещё",
+            "price": "18 601 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "6 ГБ / 8 ГБ / 12 ГБ",
+            "ROM": "128 ГБ / 256 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6613a6a0da8b9e0136d19d0e",
+            "name": "Unihertz Карманный мини-телефон Jelly 2, восьмиядерный Andr… Ещё",
+            "price": "20 262 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "3\"",
+            "bat": "2 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f273befead1801508d6978",
+            "name": "QIN 3 ультра глобальная версия MTK G99 5,02 дюйма 8 ГБ 256 ГБ W… Ещё",
+            "price": "19 999 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "5,02\"",
+            "bat": "2 500 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/649cf9ab31a65f01d7f5a653",
+            "name": "Глобальное ПЗУ мобильного телефона Motorola Moto G51 5G",
+            "price": "19 832 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "8 ГБ",
+            "ROM": "12 ГБ",
+            "diag": "6,8\"",
+            "bat": "5 000 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64156e6d1a753b017dda522f",
+            "name": "Oukitel Прочный смартфон WP22, 6,58 дюйма, FHD+, 10 000… Ещё",
+            "price": "19 499 ₽",
+            "sales": "93% рекомендуют",
+            "stars": "4,7",
+            "rec_proc": "143 покупки",
+            "review_num": "97"
+        },
+        {
+            "OS": "Android 13.0",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,58\"",
+            "bat": "10 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/63bd29abeec251015396ba66",
+            "name": "Blackview Защищенный смартфон BV9200, мобильный телефон,… Ещё",
+            "price": "19 423 ₽",
+            "sales": "97% рекомендуют",
+            "stars": "4,9",
+            "rec_proc": "59 покупок",
+            "review_num": "39"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,6\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/61e7cd0c3f72230196fcc809",
+            "name": "Смартфон Blackview BV8800",
+            "price": "19 357 ₽",
+            "sales": "93% рекомендуют",
+            "stars": "4,7",
+            "rec_proc": "182 покупки",
+            "review_num": "136"
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,58\"",
+            "bat": "8 380 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/653d23752e539901d248ec7b",
+            "name": "Смартфон POCO X5 с глобальной версией, 6/8 ГБ + 128/256 ГБ, вось… Ещё",
+            "price": "19 254 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "3",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/659d07607d9b3f01e4011433",
+            "name": "Мини-защищенный смартфон SOYES S10 Max, 3,5-дюймовый вось… Ещё",
+            "price": "17 218 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "6 ГБ / 8 ГБ",
+            "ROM": "128 ГБ / 256 ГБ",
+            "diag": "3,5\"",
+            "bat": "2 400 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64fd7fdee9d99701cf1e761c",
+            "name": "Realme 11 Смартфон 4G 8+256 ГБ, глобальная версия",
+            "price": "19 065 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,4\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f2bb0d2a9ad80159d9de21",
+            "name": "UMIDIGI Смартфон F3 PRO 5G, размер 700, Android 13, экран 6,6 … Ещё",
+            "price": "16 819 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "6 ГБ / 8 ГБ",
+            "ROM": "128 ГБ / 256 ГБ",
+            "diag": "6,6\"",
+            "bat": "6 150 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65aa15101bc8ef01fe86db4a",
+            "name": "Смартфон POCO M6 Pro 4G с NFC Helio G99-Ultra, AMOLED, 120 Гц, 67 В… Ещё",
+            "price": "18 668 ₽",
+            "sales": "20 покупок",
+            "stars": "5",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "7"
+        },
+        {
+            "OS": "MIUI 14",
+            "RAM": "8 ГБ / 12 ГБ",
+            "ROM": "256 ГБ / 512 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/66028e226768b00100aa85ab",
+            "name": "Защищённый смартфон Oukitel WP26",
+            "price": "18 499 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "16 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,58\"",
+            "bat": "10 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/647f167e282208011302564a",
+            "name": "Смартфон Cubot KingKong 9",
+            "price": "18 469 ₽",
+            "sales": "93% рекомендуют",
+            "stars": "4,7",
+            "rec_proc": "706 покупок",
+            "review_num": "398"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "24 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,58\"",
+            "bat": "10 600 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/62f60db3b7854b01081f97f1",
+            "name": "Смартфон Ulefone Power Armor 14 Pro, NFC, глобальная версия",
+            "price": "18 451 ₽",
+            "sales": "11 покупок",
+            "stars": "5",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "5"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,52\"",
+            "bat": "10 000 мА·ч",
+            "cam": "20 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6530daebfb988f01af65ff98",
+            "name": "UMIDIGI Прочный смартфон BISON GT2, 8G, 128G, Android 12, IP6… Ещё",
+            "price": "18 234 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,5\"",
+            "bat": "6 150 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/644a437a9d7ccb01d721d749",
+            "name": "Ulefone Прочный смартфон Armor 12S Helio G99, мобильные тел… Ещё",
+            "price": "18 184 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "5"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,52\"",
+            "bat": "5 180 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/63296c3e0864ac0117ad77b9",
+            "name": "Blackview BV7100 Прочный телефон, 6 ГБ, 128 ГБ, 13000 мАч, 12… Ещё",
+            "price": "18 081 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "2"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,58\"",
+            "bat": "13 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6620fbbe714b83017c069f9f",
+            "name": "Ulefone Прочный водонепроницаемый смартфон Power Arm… Ещё",
+            "price": "18 044 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "16 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "5,93\"",
+            "bat": "9 600 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/625002ebd02d42018c1c36cf",
+            "name": "Смартфон Xiaomi Redmi Note 11 Pro+ 5G",
+            "price": "17 898 ₽",
+            "sales": "95% рекомендуют",
+            "stars": "4,8",
+            "rec_proc": "968 покупок",
+            "review_num": "682"
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,67\"",
+            "bat": "4 500 мА·ч",
+            "cam": "108 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/634a5f7b2e0d5c011b10ae1a",
+            "name": "Oukitel WP17 8 ГБ ОЗУ 128 ГБ ПЗУ",
+            "price": "17 895 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,78\"",
+            "bat": "8 300 мА·ч",
+            "cam": "64 мегапикселя"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/5fce1ce8eac5810107aea333",
+            "name": "Смартфон Blackview BV9900E, NFC",
+            "price": "17 841 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "4,5",
+            "rec_proc": "",
+            "review_num": "2"
+        },
+        {
+            "OS": "Android 10",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "5,84\"",
+            "bat": "4 380 мА·ч",
+            "cam": "48 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6290b8160cb5390193fbfed2",
+            "name": "Смартфон Xiaomi Redmi Note 11 5G",
+            "price": "15 075 ₽",
+            "sales": "88% рекомендуют",
+            "stars": "4,6",
+            "rec_proc": "97 покупок",
+            "review_num": "68"
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "4 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,6\"",
+            "bat": "5 000 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6448f0a566dd4b012d35a592",
+            "name": "Xiaomi Смартфон Redmi Note 12 5G Snapdragon 7+ Gen 2 120 Гц OLED 50… Ещё",
+            "price": "17 714 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "2"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6622307f3581bf012ee67707",
+            "name": "Смартфон Global Rom Redmi 13C 5G 6,74 ЖК-дисплей 50-мегапикс… Ещё",
+            "price": "16 082 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "4 ГБ / 6 ГБ / 8 ГБ",
+            "ROM": "128 ГБ / 256 ГБ",
+            "diag": "6,74\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/653d40aac1043f012e953883",
+            "name": "Глобальная версия Xiaomi Redmi Note 12S NFC 8+256 ГБ 4G An… Ещё",
+            "price": "17 587 ₽",
+            "sales": "11 покупок",
+            "stars": "3",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "2"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,43\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65e6809484d2260158761472",
+            "name": "Xiaomi Смартфон Redmi Note 13 4G с NFC Snapdragon® 685, 12… Ещё",
+            "price": "17 569 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "MIUI 14",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f0123f58f2860128ac0c3c",
+            "name": "Защищённый смартфон Oukitel WP22",
+            "price": "17 561 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,58\"",
+            "bat": "10 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/63c5139527b9db017ddfc6cf",
+            "name": "Xiaomi Смартфон Redmi Note 11, 5G, глобальный размер ПЗУ, восьмия… Ещё",
+            "price": "15 110 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "4 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,6\"",
+            "bat": "5 000 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/652a11d3d44e3501019492fd",
+            "name": "Cмартфон Blackview A96",
+            "price": "17 205 ₽",
+            "sales": "19 покупок",
+            "stars": "4,8",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "13"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,5\"",
+            "bat": "4 380 мА·ч",
+            "cam": "48 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f1b6816bb332010a4d95cf",
+            "name": "Глобальная версия смартфона Xiaomi Redmi Note 13 4G",
+            "price": "16 153 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "MIUI 14",
+            "RAM": "6 ГБ / 8 ГБ",
+            "ROM": "128 ГБ / 256 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/63245636e2381701348e4e72",
+            "name": "Ulefone Прочный телефон Armor 15, Android 12, встроенн… Ещё",
+            "price": "17 070 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "3,5",
+            "rec_proc": "",
+            "review_num": "2"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "5,45\"",
+            "bat": "6 600 мА·ч",
+            "cam": "13 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/661e495cc408bf01b80e9b02",
+            "name": "UMIDIGI Смартфон F3 5G, Android 12, NFC, 8 ГБ + 128 ГБ, глобальная ве… Ещё",
+            "price": "16 722 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,7\"",
+            "bat": "5 150 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6320513166aab701eea57c9d",
+            "name": "Смартфон Blackview BV7100, NFC, глобальная версия",
+            "price": "16 661 ₽",
+            "sales": "94% рекомендуют",
+            "stars": "4,8",
+            "rec_proc": "172 покупки",
+            "review_num": "136"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,58\"",
+            "bat": "13 000 мА·ч",
+            "cam": "12 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f1b67fc9bef801e84d9696",
+            "name": "Глобальная версия смартфона Xiaomi Redmi Note 13 4G",
+            "price": "15 669 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "MIUI 14",
+            "RAM": "6 ГБ / 8 ГБ",
+            "ROM": "128 ГБ / 256 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f551cd9883a8011669260c",
+            "name": "Смартфон Global Rom Redmi Note 12R, 50 МП, двойная камера, Qua… Ещё",
+            "price": "14 754 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "4 ГБ / 6 ГБ / 8 ГБ",
+            "ROM": "128 ГБ / 256 ГБ",
+            "diag": "6,79\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/612e0cfcd8ad15019a7a5e70",
+            "name": "Смартфон Ulefone Armor 8 Pro",
+            "price": "16 075 ₽",
+            "sales": "93% рекомендуют",
+            "stars": "4,7",
+            "rec_proc": "184 покупки",
+            "review_num": "259"
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,1\"",
+            "bat": "5 580 мА·ч",
+            "cam": "16 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6602358f1edc50012c0a7692",
+            "name": "Смартфон Cubot Hafury V1",
+            "price": "15 797 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,58\"",
+            "bat": "4 350 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/640ad25b13eca801f943647a",
+            "name": "Смартфон Global Rom Xiaomi Redmi Note 12 5G, аккумулятор 5000 м… Ещё",
+            "price": "15 709 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": "48 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/647fea718126af0182ac4966",
+            "name": "Xiaomi Смартфон Redmi Note 12S, 90 Гц, FHD+ AMOLED DotDisplay, … Ещё",
+            "price": "15 695 ₽",
+            "sales": "95% рекомендуют",
+            "stars": "4,9",
+            "rec_proc": "196 покупок",
+            "review_num": "166"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,43\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65a9f2597a053a01c8709856",
+            "name": "Xiaomi Смартфон Redmi Note 13 4G Snapdragon® 685 120 Гц AMOLED IP… Ещё",
+            "price": "15 639 ₽",
+            "sales": "96% рекомендуют",
+            "stars": "4,9",
+            "rec_proc": "87 покупок",
+            "review_num": "33"
+        },
+        {
+            "OS": "MIUI 14",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ / 256 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/62d120880fd39701eead5a4c",
+            "name": "Смартфон Xiaomi Redmi Note 9 5G",
+            "price": "14 821 ₽",
+            "sales": "97% рекомендуют",
+            "stars": "4,8",
+            "rec_proc": "46 покупок",
+            "review_num": "34"
+        },
+        {
+            "OS": "Android 10",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,53\"",
+            "bat": "5 000 мА·ч",
+            "cam": "48 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/63648e64336db5011d08fe68",
+            "name": "Blackview BV7200 Прочный смартфон на базе Android 12, 6 ГБ … Ещё",
+            "price": "15 467 ₽",
+            "sales": "14 покупок",
+            "stars": "5",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "7"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,1\"",
+            "bat": "5 180 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/647f1bb6666ba701ad945eb9",
+            "name": "Смартфон Cubot X70",
+            "price": "15 598 ₽",
+            "sales": "91% рекомендуют",
+            "stars": "4,6",
+            "rec_proc": "276 покупок",
+            "review_num": "148"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "24 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,58\"",
+            "bat": "5 200 мА·ч",
+            "cam": "100 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/5f706ea0d1f3fd01060d1382",
+            "name": "Смартфон Oukitel WP28",
+            "price": "15 259 ₽",
+            "sales": "90% рекомендуют",
+            "stars": "4,6",
+            "rec_proc": "173 покупки",
+            "review_num": "544"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,52\"",
+            "bat": "10 600 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f2ac462a9ad80159d906cb",
+            "name": "UMIDIGI Смартфон A15 NFC, 8 ГБ, 256 ГБ, 64 МП, Unisoc T616, Android … Ещё",
+            "price": "14 878 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,7\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64ddcba90d10de01ae308bf5",
+            "name": "UMIDIGI Прочный смартфон G5 Mecha, Android 13, 6,6 дюйм… Ещё",
+            "price": "14 601 ₽",
+            "sales": "18 покупок",
+            "stars": "4,6",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "9"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,6\"",
+            "bat": "6 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/645c96b7c5e79901ec39b47a",
+            "name": "Cubot KingKong Power, водонепроницаемый прочный смартфон, … Ещё",
+            "price": "14 580 ₽",
+            "sales": "90% рекомендуют",
+            "stars": "4,7",
+            "rec_proc": "262 покупки",
+            "review_num": "153"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,5\"",
+            "bat": "10 600 мА·ч",
+            "cam": "48 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65e5b3fd56e017017fb4de29",
+            "name": "UMIDIGI Прочный смартфон BISON X20 с NFC, MTK Helio P60, … Ещё",
+            "price": "12 839 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,53\"",
+            "bat": "6 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/661fa0ac34d48a01e2852f49",
+            "name": "Blackview Защищенный смартфон N6000SE, мобильный телефон … Ещё",
+            "price": "13 424 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "4 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "4,3\"",
+            "bat": "3 700 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6448ee2666dd4b012d359b58",
+            "name": "Xiaomi Смартфон Redmi Note 12 Snapdragon® 685, 120 Гц, OLED, 500… Ещё",
+            "price": "14 474 ₽",
+            "sales": "97% рекомендуют",
+            "stars": "4,9",
+            "rec_proc": "928 покупок",
+            "review_num": "917"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6040ae2e05f540010638bd96",
+            "name": "Смартфон Oukitel WP12, NFC",
+            "price": "14 361 ₽",
+            "sales": "93% рекомендуют",
+            "stars": "4,7",
+            "rec_proc": "30 покупок",
+            "review_num": "306"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "16 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,52\"",
+            "bat": "10 600 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65607f8edbfb45017448d744",
+            "name": "Смартфон Oscal TIGER 12",
+            "price": "14 275 ₽",
+            "sales": "19 покупок",
+            "stars": "4,7",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "11"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,78\"",
+            "bat": "5 000 мА·ч",
+            "cam": "64 мегапикселя"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f173c6dd4a1f018905fe66",
+            "name": "Защищённый смартфон Oukitel WP28",
+            "price": "14 100 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,52\"",
+            "bat": "10 600 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f2b22cfead180150902e81",
+            "name": "UMIDIGI Смартфон A15C T606 NFC Android 13 6,7 дюйма FHD + экран … Ещё",
+            "price": "13 909 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,7\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6275ed1d428fd3016b5f369a",
+            "name": "Смартфон Ulefone Armor X10 Pro, NFC",
+            "price": "13 843 ₽",
+            "sales": "34 покупки",
+            "stars": "4,5",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "25"
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "5,45\"",
+            "bat": "5 180 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/645a0c92f510f801bc258cca",
+            "name": "Xiaomi Смартфон Redmi Note 12 Pro, 5G, 50 МП, 5000 мАч, 67 Вт, быст… Ещё",
+            "price": "13 793 ₽",
+            "sales": "12 покупок",
+            "stars": "4,4",
+            "rec_proc": "Доставка в пункт выдачи 12-28 мая",
+            "review_num": "8"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,71\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/654c48afdcdc890159ef0e2f",
+            "name": "Xiaomi Смартфон Redmi 12 с NFC без зарядного устройства, глобальн… Ещё",
+            "price": "13 521 ₽",
+            "sales": "96% рекомендуют",
+            "stars": "4,8",
+            "rec_proc": "115 покупок",
+            "review_num": "78"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,79\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65eddc8076e69601d0e08ccb",
+            "name": "Смартфон Alcatel 1B 2022 2 ГБ 32 ГБ Синий 32 ГБ 2 ГБ ОЗУ Четырехъяде… Ещё",
+            "price": "13 297 ₽",
+            "sales": "Бесплатная доставка 8-22 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "",
+            "RAM": "",
+            "ROM": "",
+            "diag": "",
+            "bat": "",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/62f5cec12785d70113b8d232",
+            "name": "Смартфон Ulefone Armor 7E, NFC, глобальная версия",
+            "price": "13 183 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 10",
+            "RAM": "4 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,3\"",
+            "bat": "5 500 мА·ч",
+            "cam": "48 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/5fae0a8d6a61690106152a33",
+            "name": "Смартфон Blackview BV9900E",
+            "price": "13 156 ₽",
+            "sales": "88% рекомендуют",
+            "stars": "4,6",
+            "rec_proc": "25 покупок",
+            "review_num": "34"
+        },
+        {
+            "OS": "Android 10",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "5,84\"",
+            "bat": "4 380 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f1670d792a1a01e75978a5",
+            "name": "Xiaomi Смартфон Redmi 12 8+128 ГБ, глобальная версия",
+            "price": "13 049 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,79\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/661e3a77a81b0801a513bde9",
+            "name": "UMIDIGI Смартфон A13 Pro 5G, Android 12, NFC, 6,5 дюйма, большой … Ещё",
+            "price": "12 939 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,5\"",
+            "bat": "5 150 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64463a5e35d1d101576830e6",
+            "name": "Смартфон Xiaomi Redmi 12C Global Rom, 50-мегапиксельная AI-к… Ещё",
+            "price": "9 886 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "6,71\"",
+            "bat": "5 000 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65d31e5471c45d01b2712fc4",
+            "name": "UMIDIGI Смартфон A11 Pro Max, глобальная версия, Android 11, 6,… Ещё",
+            "price": "12 829 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "4 ГБ / 8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,8\"",
+            "bat": "5 150 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65b354c70dea14018f1a462c",
+            "name": "Смартфон Oscal Modern 8",
+            "price": "10 799 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,75\"",
+            "bat": "6 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/60c9fca52b6228015a173e6d",
+            "name": "Смартфон Blackview A100",
+            "price": "12 724 ₽",
+            "sales": "95% рекомендуют",
+            "stars": "4,8",
+            "rec_proc": "13 покупок",
+            "review_num": "22"
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,67\"",
+            "bat": "4 680 мА·ч",
+            "cam": "12 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f1aee46bb332010a4cf426",
+            "name": "Смартфон Xiaomi Redmi 13C, глобальная версия, 8+256 ГБ",
+            "price": "12 541 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,74\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/654f2e7b85d9af01d4669421",
+            "name": "Смартфон Blackview SHARK 8",
+            "price": "12 511 ₽",
+            "sales": "96% рекомендуют",
+            "stars": "4,8",
+            "rec_proc": "51 покупка",
+            "review_num": "32"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ / 256 ГБ",
+            "diag": "6,78\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6514fac214f734019034ba04",
+            "name": "Blackview Смартфон BV6200 Pro, 4 ГБ, 128 ГБ, Android 13, прочный … Ещё",
+            "price": "12 436 ₽",
+            "sales": "15 покупок",
+            "stars": "4,5",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "10"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "4 ГБ / 6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,56\"",
+            "bat": "13 000 мА·ч",
+            "cam": "13 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/659fa971cca5e701bb86dd32",
+            "name": "Защищённый смартфон Blackview BV5300 Plus",
+            "price": "12 397 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,1\"",
+            "bat": "6 580 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65e99341b7831a0193c06e8c",
+            "name": "Смартфон Doogee N50 Pro",
+            "price": "12 198 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13.0",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,52\"",
+            "bat": "4 200 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6573e618fe798001252842d9",
+            "name": "Oscal Смартфон TIGER 12 Android13 MTK Helio G99 6,78 дюйма, 120 Гц, 2,… Ещё",
+            "price": "12 167 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,78\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f1aee582ed660120dc04d9",
+            "name": "Смартфон Xiaomi Redmi 13C, глобальная версия, 8+256 ГБ",
+            "price": "12 153 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,74\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65ec2b5f55740d017ddf3676",
+            "name": "Смартфон Doogee N50 разблокированный",
+            "price": "12 079 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13.0",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,52\"",
+            "bat": "4 200 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6391a21df9b47b01b3a90d45",
+            "name": "Ulefone Прочный телефон Armor X10, глобальная версия, в… Ещё",
+            "price": "11 969 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "4 ГБ",
+            "ROM": "32 ГБ",
+            "diag": "5,45\"",
+            "bat": "5 180 мА·ч",
+            "cam": "13 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/655ec41076766d0124816ee9",
+            "name": "Защищенный смартфон Cubot Kingkong 8",
+            "price": "11 892 ₽",
+            "sales": "93% рекомендуют",
+            "stars": "4,7",
+            "rec_proc": "231 покупка",
+            "review_num": "102"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,53\"",
+            "bat": "10 600 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6540ba3eab184901f32a8b80",
+            "name": "[Мировая премьера] HOTWAV Note 13 Pro 6,6 дюйма HD+ Android … Ещё",
+            "price": "11 397 ₽",
+            "sales": "29 покупок",
+            "stars": "4,3",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "12"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "16 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,6\"",
+            "bat": "5 160 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f41e39124bf70149c98556",
+            "name": "UMIDIGI Смартфон G5, Android 13, Unisoc T606, восьмиъядерный пр… Ещё",
+            "price": "11 678 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,6\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6448a0b3865c130162f96c81",
+            "name": "Cubot P80, смартфон новой глобальной версии 2023 года, 8 Г… Ещё",
+            "price": "11 574 ₽",
+            "sales": "90% рекомендуют",
+            "stars": "4,6",
+            "rec_proc": "более 1000 покупок",
+            "review_num": "964"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ / 512 ГБ",
+            "diag": "6,58\"",
+            "bat": "5 200 мА·ч",
+            "cam": "48 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64b0b85adafe6d01be93db6b",
+            "name": "Xiaomi Смартфон Redmi 12, 90 Гц, FHD+, 6,79 дюйма, стеклянная з… Ещё",
+            "price": "11 350 ₽",
+            "sales": "97% рекомендуют",
+            "stars": "4,9",
+            "rec_proc": "415 покупок",
+            "review_num": "350"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,79\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6486fbe441575801695a82dd",
+            "name": "Oscal Прочный смартфон S70 Pro, Android 12, водонепроницаемы… Ещё",
+            "price": "11 322 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "6,1\"",
+            "bat": "6 580 мА·ч",
+            "cam": "13 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65e1939bcbfaa501ed9ff14b",
+            "name": "Xiaomi Смартфон Redmi 12C Helio G85, восьмиядерный про… Ещё",
+            "price": "9 886 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "4 ГБ / 6 ГБ",
+            "ROM": "64 ГБ / 128 ГБ",
+            "diag": "6,71\"",
+            "bat": "5 000 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/637f40a492870401aba7126f",
+            "name": "Blackview Смартфон A85, глобальная версия, 8 ГБ, 128 ГБ, 6,5 дюйма, ди… Ещё",
+            "price": "11 266 ₽",
+            "sales": "94% рекомендуют",
+            "stars": "4,8",
+            "rec_proc": "162 покупки",
+            "review_num": "134"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,5\"",
+            "bat": "4 480 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6557487b0f238101a88a6fc6",
+            "name": "Soyes Супер мини-телефон XS12, 4G LTE, 3 ГБ, 64 ГБ, Android 9,0… Ещё",
+            "price": "10 298 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 9.0",
+            "RAM": "3 ГБ",
+            "ROM": "32 ГБ",
+            "diag": "3\"",
+            "bat": "1 250 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64d4c7af9acc0301ac14e9b2",
+            "name": "Ulefone Смартфон Note 16 Pro, 512 ГБ ПЗУ/128 ГБ ПЗУ/256 ГБ ПЗУ, Andr… Ещё",
+            "price": "10 349 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "3",
+            "rec_proc": "",
+            "review_num": "2"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "512 ГБ",
+            "diag": "6,52\"",
+            "bat": "4 400 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65e96b7c91350501a94e67c4",
+            "name": "Смартфон Doogee N50",
+            "price": "11 106 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,52\"",
+            "bat": "4 200 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64c0f10db8c1f40159c0ee58",
+            "name": "Xiaomi Redmi Note 10 Pro Восстановленный смартфон глобально… Ещё",
+            "price": "11 087 ₽",
+            "sales": "87% рекомендуют",
+            "stars": "4,6",
+            "rec_proc": "92 покупки",
+            "review_num": "56"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,67\"",
+            "bat": "5 020 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64fd87174ada2701fafc9431",
+            "name": "Realme Мобильный телефон C51 4G NFC 33W Смартфон Глобальна… Ещё",
+            "price": "10 914 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "4 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,74\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65e81577cfb027014205e948",
+            "name": "UMIDIGI Смартфон C1 & G1 Max Unisoc T610, восьмиъядерный пр… Ещё",
+            "price": "10 890 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,52\"",
+            "bat": "5 150 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64f70e1041e731015cc8b711",
+            "name": "Защищенный смартфон Blackview BV6200",
+            "price": "10 833 ₽",
+            "sales": "21 покупка",
+            "stars": "4,6",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "13"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "6,56\"",
+            "bat": "13 000 мА·ч",
+            "cam": "13 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/630dd9f0b03cc1011b07bcf0",
+            "name": "Смартфон Ulefone Armor X6 Pro, NFC, глобальная версия",
+            "price": "10 797 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "3"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "4 ГБ",
+            "ROM": "32 ГБ",
+            "diag": "5\"",
+            "bat": "4 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64648e08c6ffcc01e703958e",
+            "name": "Blackview BV5300 Pro, водонепроницаемый прочный смартфон с… Ещё",
+            "price": "10 718 ₽",
+            "sales": "14 покупок",
+            "stars": "4,7",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "6"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "6,1\"",
+            "bat": "6 580 мА·ч",
+            "cam": "13 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/62c671fac0f2cf0194ea381f",
+            "name": "Смартфон UMIDIGI A13 Pro, NFC",
+            "price": "9 559 ₽",
+            "sales": "12 покупок",
+            "stars": "4,4",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "8"
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "4 ГБ / 6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,7\"",
+            "bat": "5 150 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/632987bf0e315a019b3ead66",
+            "name": "Blackview BV5200 Прочный телефон 4G, 4 ГБ, 32 ГБ, 5180 мАч, с… Ещё",
+            "price": "10 497 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "4 ГБ",
+            "ROM": "32 ГБ",
+            "diag": "6,01\"",
+            "bat": "5 180 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65b20716dabcf801bb922d1d",
+            "name": "Смартфон Blackview COLOR 8",
+            "price": "10 437 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,75\"",
+            "bat": "6 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6131d666fb5229015660a878",
+            "name": "Смартфон Ulefone Armor X5 Pro, NFC",
+            "price": "10 357 ₽",
+            "sales": "100% рекомендуют",
+            "stars": "4,8",
+            "rec_proc": "24 покупки",
+            "review_num": "22"
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "5,5\"",
+            "bat": "5 000 мА·ч",
+            "cam": "13 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/63526bf83699f30144de3cf2",
+            "name": "Cubot KingKong MINI 3, мини-смартфон 4,5 дюйма, восьмиядерн… Ещё",
+            "price": "10 311 ₽",
+            "sales": "91% рекомендуют",
+            "stars": "4,6",
+            "rec_proc": "447 покупок",
+            "review_num": "171"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "4,5\"",
+            "bat": "3 000 мА·ч",
+            "cam": "20 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65fbfac463b52b01ac8e749b",
+            "name": "Глобальная версия QIN 2 Pro, полноэкранный телефон, сеть 4G, Wi-… Ещё",
+            "price": "10 096 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 9",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "5,05\"",
+            "bat": "2 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65dc4d688d20a80142409da0",
+            "name": "UMIDIGI Смартфон Power 5, 64 ГБ/128 ГБ, глобальная версия H… Ещё",
+            "price": "9 009 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "3 ГБ / 4 ГБ",
+            "ROM": "64 ГБ / 128 ГБ",
+            "diag": "6,53\"",
+            "bat": "6 150 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/654dd58c6d5e9901499302f0",
+            "name": "Xiaomi Смартфон POCO C65 с NFC MediaTek Helio G85, 6,74 дюйма, 90 … Ещё",
+            "price": "9 781 ₽",
+            "sales": "96% рекомендуют",
+            "stars": "4,9",
+            "rec_proc": "456 покупок",
+            "review_num": "420"
+        },
+        {
+            "OS": "MIUI 14",
+            "RAM": "6 ГБ / 8 ГБ",
+            "ROM": "128 ГБ / 256 ГБ",
+            "diag": "6,74\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64b9f4ec3e396e01cf9c2845",
+            "name": "Смартфон Cubot NOTE 50",
+            "price": "9 750 ₽",
+            "sales": "92% рекомендуют",
+            "stars": "4,7",
+            "rec_proc": "430 покупок",
+            "review_num": "311"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,56\"",
+            "bat": "5 200 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/661656bc8151e801a0239094",
+            "name": "HOTWAV Прочный смартфон T7, 6,52-дюймовый HD+ экра… Ещё",
+            "price": "9 687 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "8 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,52\"",
+            "bat": "6 280 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/61b720e1fcbc1001f57c004e",
+            "name": "Смартфон Blackview Oscal S60",
+            "price": "9 683 ₽",
+            "sales": "10 покупок",
+            "stars": "4,8",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "5"
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "3 ГБ",
+            "ROM": "16 ГБ",
+            "diag": "5,7\"",
+            "bat": "4 980 мА·ч",
+            "cam": "8 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/63536cc102d559018f66c6d3",
+            "name": "Xiaomi Мобильный телефон Redmi 10A, большая батарея 500… Ещё",
+            "price": "9 681 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "2"
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "6,53\"",
+            "bat": "5 000 мА·ч",
+            "cam": "13 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/625fc5e1c42eb101983776b6",
+            "name": "Смартфон Xiaomi Redmi 10A",
+            "price": "9 641 ₽",
+            "sales": "94% рекомендуют",
+            "stars": "4,7",
+            "rec_proc": "106 покупок",
+            "review_num": "59"
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "6,53\"",
+            "bat": "5 000 мА·ч",
+            "cam": "13 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65e199cbcbfaa501ed9ffbe2",
+            "name": "Xiaomi Смартфон Redmi 9A Redmi 9A 9 A MTK Helio G25, восьмияде… Ещё",
+            "price": "9 556 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 10",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "6,53\"",
+            "bat": "5 000 мА·ч",
+            "cam": "13 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/5f6b158620ce9901063c6d23",
+            "name": "Смартфон Xiaomi Redmi 9A",
+            "price": "9 498 ₽",
+            "sales": "93% рекомендуют",
+            "stars": "4,6",
+            "rec_proc": "282 покупки",
+            "review_num": "351"
+        },
+        {
+            "OS": "Android 10",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "6,53\"",
+            "bat": "5 000 мА·ч",
+            "cam": "13 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6564851cb0dbba01c5037531",
+            "name": "Защищённый смартфон Blackview BV4800",
+            "price": "9 361 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "4,5",
+            "rec_proc": "",
+            "review_num": "3"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "3 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "6,56\"",
+            "bat": "5 180 мА·ч",
+            "cam": "13 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/61e122c81000e701a0b9bc56",
+            "name": "Смартфон Figi Note 1",
+            "price": "9 308 ₽",
+            "sales": "15 покупок",
+            "stars": "4,5",
+            "rec_proc": "Бесплатная доставка 12-28 мая",
+            "review_num": "13"
+        },
+        {
+            "OS": "Android 9",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "6,6\"",
+            "bat": "4 000 мА·ч",
+            "cam": "13 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65e9734c0f52ec01dd358249",
+            "name": "Смартфон Doogee N50S",
+            "price": "9 290 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 13.0",
+            "RAM": "4 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,52\"",
+            "bat": "4 200 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/637df5afca258e01ac425d3a",
+            "name": "Cubot Pocket 3 4,5-дюймовый мини-смартфон 2022 Helio … Ещё",
+            "price": "9 141 ₽",
+            "sales": "39 покупок",
+            "stars": "4,3",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "13"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "4,5\"",
+            "bat": "3 000 мА·ч",
+            "cam": "20 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/655b04be66c5320126bfb45f",
+            "name": "Cubot Смартфон Note 40, 12 ГБ ОЗУ (6 ГБ+6 ГБ расширенный) + 256… Ещё",
+            "price": "9 063 ₽",
+            "sales": "87% рекомендуют",
+            "stars": "4,6",
+            "rec_proc": "29 покупок",
+            "review_num": "16"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "12 ГБ",
+            "ROM": "256 ГБ",
+            "diag": "6,56\"",
+            "bat": "5 200 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/661d0f3568bfeb018536a917",
+            "name": "UMIDIGI Смартфон A13 Android 11, глобальная версия, Unisoc T610, … Ещё",
+            "price": "9 059 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "4 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,7\"",
+            "bat": "5 150 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f830e5331223014c030548",
+            "name": "UMIDIGI Смартфон G3 Android 13 Helio A22, 4 ГБ, 64 ГБ, 13 МП, камера,… Ещё",
+            "price": "9 059 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "6,52\"",
+            "bat": "5 150 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f162ea792a1a01e7593ec0",
+            "name": "Глобальная версия смартфона Xiaomi Redmi A3 3+64 ГБ",
+            "price": "8 974 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 14",
+            "RAM": "3 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "6,71\"",
+            "bat": "5 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/62a06daabf0b2e01c936160a",
+            "name": "Смартфон Ulefone Note 10P",
+            "price": "8 824 ₽",
+            "sales": "100% рекомендуют",
+            "stars": "5",
+            "rec_proc": "33 покупки",
+            "review_num": "21"
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "3 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,52\"",
+            "bat": "5 500 мА·ч",
+            "cam": "13 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6548b5a216b8d60174374377",
+            "name": "Маленький смартфон XS16 Pro, 4,0-дюймовый восьмиъядерный пр… Ещё",
+            "price": "8 810 ₽",
+            "sales": "16 покупок",
+            "stars": "4,7",
+            "rec_proc": "Бесплатная доставка 12-28 мая",
+            "review_num": "3"
+        },
+        {
+            "OS": "Android 10.0",
+            "RAM": "4 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "4\"",
+            "bat": "2 100 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6304984732260801fba37ef2",
+            "name": "Смартфон Cubot KingKong Mini 2 Pro",
+            "price": "8 799 ₽",
+            "sales": "103 покупки",
+            "stars": "4,4",
+            "rec_proc": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "review_num": "39"
+        },
+        {
+            "OS": "Android 11.0",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "4\"",
+            "bat": "3 000 мА·ч",
+            "cam": "13 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/611b1275a099390176e0f007",
+            "name": "Смартфон Umidigi A9 Pro",
+            "price": "8 567 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "4",
+            "rec_proc": "",
+            "review_num": "5"
+        },
+        {
+            "OS": "Android 10",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "6,3\"",
+            "bat": "4 150 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65740ebd2444b701ceb8d08d",
+            "name": "Blackview Новый смартфон A52 Pro, 6 ГБ, 128 ГБ, 6,5 дюйма, An… Ещё",
+            "price": "8 316 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "4"
+        },
+        {
+            "OS": "Doke 4.0",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,5\"",
+            "bat": "5 180 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6555b4480dfc6201d46a98cb",
+            "name": "Soyes XS14 Pro 3,0-дюймовый 4G мини-смартфон Android 9,… Ещё",
+            "price": "8 176 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 9.0",
+            "RAM": "2 ГБ / 3 ГБ",
+            "ROM": "16 ГБ / 32 ГБ / 64 ГБ",
+            "diag": "3\"",
+            "bat": "2 600 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/62a1b2b93061d2019d4d6533",
+            "name": "Смартфон Cubot Pocket",
+            "price": "8 159 ₽",
+            "sales": "93% рекомендуют",
+            "stars": "4,6",
+            "rec_proc": "192 покупки",
+            "review_num": "66"
+        },
+        {
+            "OS": "Android 11",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "4\"",
+            "bat": "3 000 мА·ч",
+            "cam": "16 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6555aef00dfc6201d46a830e",
+            "name": "Soyes Смартфон XS16 Mini 4G с двумя SIM-картами, 3,0 дюйма, … Ещё",
+            "price": "7 195 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 10",
+            "RAM": "2 ГБ",
+            "ROM": "16 ГБ",
+            "diag": "3\"",
+            "bat": "2 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64feb7fff309fd017d12ba0a",
+            "name": "Смартфон Cubot Note 21",
+            "price": "8 071 ₽",
+            "sales": "93% рекомендуют",
+            "stars": "4,7",
+            "rec_proc": "243 покупки",
+            "review_num": "146"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "12 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,56\"",
+            "bat": "5 200 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6454b01f6da8a9014c703a0c",
+            "name": "Смартфон Oscal C70",
+            "price": "8 018 ₽",
+            "sales": "93% рекомендуют",
+            "stars": "4,7",
+            "rec_proc": "476 покупок",
+            "review_num": "370"
+        },
+        {
+            "OS": "Android 12",
+            "RAM": "6 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,6\"",
+            "bat": "5 180 мА·ч",
+            "cam": "50 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6539e323399259015a1a2351",
+            "name": "Blackview Новый смартфон A52 Pro, 4 ГБ, 128 ГБ, 6,5 дюйма, An… Ещё",
+            "price": "7 621 ₽",
+            "sales": "97% рекомендуют",
+            "stars": "4,9",
+            "rec_proc": "66 покупок",
+            "review_num": "42"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "4 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,5\"",
+            "bat": "5 180 мА·ч",
+            "cam": "13 мегапикселей"
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6549f304004cef01e8e82832",
+            "name": "Soyes Ультратонкий мини-смартфон S10-H, 3,49 дюйма, Android … Ещё",
+            "price": "7 104 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 9.0",
+            "RAM": "3 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "3,49\"",
+            "bat": "2 100 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65f15c3c792a1a01e758e3f4",
+            "name": "Cubot A1, смартфон Android 13, 4 ГБ ОЗУ, 128 ГБ ПЗУ, восьмиядерн… Ещё",
+            "price": "7 397 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "4 ГБ",
+            "ROM": "128 ГБ",
+            "diag": "6,56\"",
+            "bat": "5 100 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6549a1d9f7f36101e9c2be59",
+            "name": "Soyes Мини-смартфон XS12 Pro 4G, 3,0 дюйма, Android 10,0, Bluetoot… Ещё",
+            "price": "5 042 ₽",
+            "sales": "19 покупок",
+            "stars": "4",
+            "rec_proc": "Бесплатная доставка 12-28 мая",
+            "review_num": "4"
+        },
+        {
+            "OS": "Android 10.0",
+            "RAM": "4 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "3\"",
+            "bat": "2 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65559f8cadfe6701fc2efb5a",
+            "name": "Soyes Мини-смартфон XS15, 3,0-дюймовый дисплей, 2 ГБ ОЗУ, 16… Ещё",
+            "price": "6 798 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "3,7",
+            "rec_proc": "",
+            "review_num": "3"
+        },
+        {
+            "OS": "Android 8.1",
+            "RAM": "2 ГБ",
+            "ROM": "16 ГБ",
+            "diag": "3\"",
+            "bat": "1 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/657fffc261b65b01c72a855e",
+            "name": "Смартфон Oscal FLAT 1C",
+            "price": "6 429 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "2"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "2 ГБ",
+            "ROM": "32 ГБ",
+            "diag": "6,51\"",
+            "bat": "4 700 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/657418e524240801f6622517",
+            "name": "Blackview Смартфон WAVE 6C 2 ГБ+32 ГБ Android 13",
+            "price": "6 426 ₽",
+            "sales": "Доставка в пункт выдачи 6 мая - 5 июня",
+            "stars": "5",
+            "rec_proc": "",
+            "review_num": "2"
+        },
+        {
+            "OS": "Android 13",
+            "RAM": "2 ГБ",
+            "ROM": "32 ГБ",
+            "diag": "6,5\"",
+            "bat": "5 100 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64dc492aa2b33f0155317cc1",
+            "name": "Soyes XS12 Мини-смартфон 4G Android 10 Dual Sim Octa Core 5-… Ещё",
+            "price": "6 253 ₽",
+            "sales": "20 покупок",
+            "stars": "4",
+            "rec_proc": "Бесплатная доставка 12-28 мая",
+            "review_num": "4"
+        },
+        {
+            "OS": "Android 10",
+            "RAM": "3 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "3\"",
+            "bat": "2 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6549e77a22f28501ff646421",
+            "name": "Soyes Мини-смартфоны S23 Pro, Android 8,1, 2 ГБ + 16 ГБ, две SIM-карт… Ещё",
+            "price": "6 198 ₽",
+            "sales": "15 покупок",
+            "stars": "4,3",
+            "rec_proc": "Бесплатная доставка 12-28 мая",
+            "review_num": "6"
+        },
+        {
+            "OS": "Android 8.1",
+            "RAM": "2 ГБ",
+            "ROM": "16 ГБ",
+            "diag": "3\"",
+            "bat": "1 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/659bb35aa72fe601caa9a42b",
+            "name": "Маленький смартфон XS15 PRO, 3,0 дюйма, Android 9,0, четырех… Ещё",
+            "price": "5 126 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "4",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 9.0",
+            "RAM": "2 ГБ / 3 ГБ",
+            "ROM": "16 ГБ / 64 ГБ",
+            "diag": "3\"",
+            "bat": "2 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65e2ca9d0fdd02013236f705",
+            "name": "Смартфон W88 Pro в стиле ретро, ​​4,0 дюйма, Android 12,0, четыре… Ещё",
+            "price": "5 709 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 12.0",
+            "RAM": "2 ГБ",
+            "ROM": "16 ГБ",
+            "diag": "4\"",
+            "bat": "5 500 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65d861536a3967010247e124",
+            "name": "Маленький смартфон M80 PRO, 3,0 дюйма, Android 9,0, четырех… Ещё",
+            "price": "5 548 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 9.0",
+            "RAM": "2 ГБ",
+            "ROM": "16 ГБ",
+            "diag": "3\"",
+            "bat": "2 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/655370f833fcbb0102ae6d0c",
+            "name": "Настоящий супер мини-смартфон SOYES XS11, 2,5 дюйма, MT6580A, че… Ещё",
+            "price": "5 523 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 6.0",
+            "RAM": "1 ГБ",
+            "ROM": "8 ГБ",
+            "diag": "2,5\"",
+            "bat": "1 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6549a5d9f7f36101e9c2c3cc",
+            "name": "Soyes Смартфон XS16 4G, 3,0-дюймовый четырехъядерный п… Ещё",
+            "price": "4 438 ₽",
+            "sales": "58 покупок",
+            "stars": "4,3",
+            "rec_proc": "Бесплатная доставка 12-28 мая",
+            "review_num": "10"
+        },
+        {
+            "OS": "Android 6.0",
+            "RAM": "3 ГБ",
+            "ROM": "64 ГБ",
+            "diag": "3\"",
+            "bat": "2 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6620e58166871b0147b83592",
+            "name": "Soyes Мини-смартфон S23 Pro 4G, 3,0-дюймовый, Android … Ещё",
+            "price": "4 173 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 9.0",
+            "RAM": "2 ГБ",
+            "ROM": "16 ГБ",
+            "diag": "3\"",
+            "bat": "1 950 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65b773e5626782014243c9bb",
+            "name": "Soyes Мини-смартфон XS20 Pro, 3,0-дюймовый дисплей, Android 8,1, … Ещё",
+            "price": "3 768 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 8.1",
+            "RAM": "2 ГБ",
+            "ROM": "16 ГБ",
+            "diag": "3\"",
+            "bat": "1 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65e0573d58ce5401de03db58",
+            "name": "Soyes Смартфон S23 Pro, 3,0 дюйма, Android 8,1, две SIM-карты, двой… Ещё",
+            "price": "3 557 ₽",
+            "sales": "18 покупок",
+            "stars": "",
+            "rec_proc": "Бесплатная доставка 12-28 мая",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 8.1",
+            "RAM": "2 ГБ",
+            "ROM": "16 ГБ",
+            "diag": "3\"",
+            "bat": "1 580 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/654af6ea37028601b2dd7417",
+            "name": "Soyes Мини-смартфон XS15, 3,0-дюймовый дисплей, Android 8,1, … Ещё",
+            "price": "3 458 ₽",
+            "sales": "234 покупки",
+            "stars": "4,4",
+            "rec_proc": "Бесплатная доставка 12-28 мая",
+            "review_num": "23"
+        },
+        {
+            "OS": "Android 8.1",
+            "RAM": "2 ГБ",
+            "ROM": "16 ГБ",
+            "diag": "3\"",
+            "bat": "1 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65853c17896c3801e00cf1b5",
+            "name": "Soyes Смартфон XS17 Pro, 3,0 дюйма, Android 9,0, две SIM-карты, 2 ГБ … Ещё",
+            "price": "3 377 ₽",
+            "sales": "37 покупок",
+            "stars": "4,1",
+            "rec_proc": "Бесплатная доставка 12-28 мая",
+            "review_num": "9"
+        },
+        {
+            "OS": "Android 9.0",
+            "RAM": "2 ГБ",
+            "ROM": "16 ГБ",
+            "diag": "3\"",
+            "bat": "1 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64dc7d9702f65c019d459690",
+            "name": "Новый маленький смартфон SOYES XS13 Pro 3G, 2,5 дюйма, Andro… Ещё",
+            "price": "3 349 ₽",
+            "sales": "18 покупок",
+            "stars": "5",
+            "rec_proc": "Бесплатная доставка 12-28 мая",
+            "review_num": "4"
+        },
+        {
+            "OS": "Android 6.0",
+            "RAM": "1 ГБ",
+            "ROM": "8 ГБ",
+            "diag": "2,5\"",
+            "bat": "1 580 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65e057387b6fad016a1217ab",
+            "name": "Soyes Маленький смартфон XS11, 2,5-дюймовый четырехъ… Ещё",
+            "price": "3 266 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "",
+            "rec_proc": "",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 6.0",
+            "RAM": "1 ГБ",
+            "ROM": "8 ГБ",
+            "diag": "2,5\"",
+            "bat": "1 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/6523b8d6dc79a90180d67a35",
+            "name": "Ультратонкий смартфон S26 3G, 3,0-дюймовый Android 8,1, две SIM-… Ещё",
+            "price": "3 258 ₽",
+            "sales": "68 покупок",
+            "stars": "4,1",
+            "rec_proc": "Бесплатная доставка 12-28 мая",
+            "review_num": "12"
+        },
+        {
+            "OS": "Android 8.1",
+            "RAM": "2 ГБ",
+            "ROM": "16 ГБ",
+            "diag": "3\"",
+            "bat": "1 000 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65714a549199d701c8ebea87",
+            "name": "Soyes Смартфон P40 Mini Android, 2,5-дюймовый HD-дисплей, две SIM… Ещё",
+            "price": "3 156 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "3",
+            "rec_proc": "",
+            "review_num": "2"
+        },
+        {
+            "OS": "Android 6.0",
+            "RAM": "1 ГБ",
+            "ROM": "8 ГБ",
+            "diag": "2,5\"",
+            "bat": "1 580 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/65714a519199d701c8ebea76",
+            "name": "Soyes Мини-смартфон Mi12, 2,5-дюймовый HD-дисплей, две SIM-ка… Ещё",
+            "price": "3 156 ₽",
+            "sales": "Бесплатная доставка 12-28 мая",
+            "stars": "4",
+            "rec_proc": "",
+            "review_num": "1"
+        },
+        {
+            "OS": "Android 6.0",
+            "RAM": "1 ГБ",
+            "ROM": "8 ГБ",
+            "diag": "2,5\"",
+            "bat": "1 580 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/64dc4e39a2b33f015531881b",
+            "name": "Soyes XS13 Mini Android-смартфон 2,5-дюймовый HD-дисплей Две SIM… Ещё",
+            "price": "2 961 ₽",
+            "sales": "91% рекомендуют",
+            "stars": "4,5",
+            "rec_proc": "171 покупка",
+            "review_num": "58"
+        },
+        {
+            "OS": "Android 6.0",
+            "RAM": "1 ГБ",
+            "ROM": "8 ГБ",
+            "diag": "2,5\"",
+            "bat": "1 580 мА·ч",
+            "cam": ""
+        }
+    ],
+    [
+        {
+            "link": "https://www.joom.ru/ru/products/659bb7ac7e9f8f01822f318b",
+            "name": "Soyes Маленький смартфон 7S, 2,5-дюймовый Android 6… Ещё",
+            "price": "2 958 ₽",
+            "sales": "10 покупок",
+            "stars": "",
+            "rec_proc": "Бесплатная доставка 12-28 мая",
+            "review_num": ""
+        },
+        {
+            "OS": "Android 6.0",
+            "RAM": "1 ГБ",
+            "ROM": "8 ГБ",
+            "diag": "2,5\"",
+            "bat": "600 мА·ч",
+            "cam": ""
+        }
+    ]
+]
