@@ -25,7 +25,7 @@ from product_scraper import pull_phone_specs
 def get_links(link):
     ua = fake_useragent.UserAgent()
 
-    #Сюда хуячим селен
+    #Сюда тыкаем селен
     soup = get_stuff_automated(link)
     ammount_of_products = len(soup.find_all('a'))
 

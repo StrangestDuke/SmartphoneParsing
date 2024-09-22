@@ -10,23 +10,23 @@ from selenium.webdriver.common.actions.wheel_input import ScrollOrigin
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
-"""
-Цена, скидка, рейтинг, количество покупок и отзывов,
-ОЗУ, ПЗУ, ДИАГОНАЛЬ, ОС, ПРОЦ, БАТАРЕЯ, КАМЕРА
-"""
+link = "https://hh.ru/search/vacancy?search_field=name&search_field=company_name&search_field=description&enable_snippets=false&L_save_area=true&experience=noExperience&text=Data+Analyst&page=0"
 
 def pull_phone_specs(link):
     driver = webdriver.Chrome()
     driver.get('{}'.format(link))
 
-    driver.execute_script("window.scrollTo(0, (document.body.scrollHeight/10));")
-    time.sleep(1)
-    try:
-        stuff = driver.find_element(by=By.CLASS_NAME, value="expandButton___HYAx0")
-        stuff.click()
-    except:
-        print("bruh")
+    stuff = driver.find_elements(by=By.CLASS_NAME, value="vacancy-serp_vacancy_response_xs")
+    stuff.click()
 
+    time.sleep(0.5)
+    while:
+        try:
+            stuff = driver.find_element(by=By.CLASS_NAME, value="vacancy-serp_vacancy_response_xs")
+            stuff.click()
+        except:
+            print("bruh")
+        driver.navigate().back();
     time.sleep(1)
     elementHTML = driver.page_source  # gives exact HTML content of the element
 
@@ -34,7 +34,7 @@ def pull_phone_specs(link):
     chars = soup.find('div', attrs={"class": "block___dmkMj"})
 
     #Нужно будет брать полученные характеристики, а потом пропускать через мясорубку все значения
-    # и при наличии нулов - обрубать колонку.
+    # и при наличии нулов - к хуям обрубать колонку.
     try:
         name = soup.find('h1',attrs={"class":"root___e0mAF"} ).text
     except:
@@ -105,6 +105,8 @@ def pull_phone_specs(link):
         "stars": stars,
         "rec_proc": perc_of_recs,
         "review_num": review_num,
+    }
+    product_chars = {
         "OS" : os,
         "RAM": RAM,
         "ROM": ROM,
@@ -112,5 +114,5 @@ def pull_phone_specs(link):
         "bat": battery,
         "cam": camera
     }
-    return product_main
+    return product_main, product_chars
 
