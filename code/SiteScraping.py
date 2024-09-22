@@ -56,7 +56,7 @@ data = []
 def put_products_to_work(link):
     data.append(pull_phone_specs(link))
 
-for i in links:
+for i in links[:10]:
     put_products_to_work(i)
     print(data)
 
